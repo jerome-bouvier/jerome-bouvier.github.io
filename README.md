@@ -1,0 +1,2 @@
+# jeromeboubou.cool
+hugo blog
