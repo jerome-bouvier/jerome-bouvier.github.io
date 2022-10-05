@@ -4,10 +4,5 @@ title: jeromeboubou.cool
 theme: "PaperMod"
 params:
     homeInfoParams:
-        Title: Hi there wave
+        Title: Hi there 👋
         Content: I'm Jerome
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
