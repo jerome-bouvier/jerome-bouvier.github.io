@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jerome-bouvier.github.io/public/posts/hello/</loc>
+    <loc>https://jerome-bouvier.github.io/posts/hello/</loc>
     <lastmod>2022-10-04T22:29:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jerome-bouvier.github.io/public/</loc>
+    <loc>https://jerome-bouvier.github.io/</loc>
     <lastmod>2022-10-04T22:29:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jerome-bouvier.github.io/public/posts/</loc>
+    <loc>https://jerome-bouvier.github.io/posts/</loc>
     <lastmod>2022-10-04T22:29:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jerome-bouvier.github.io/public/categories/</loc>
+    <loc>https://jerome-bouvier.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://jerome-bouvier.github.io/public/tags/</loc>
+    <loc>https://jerome-bouvier.github.io/tags/</loc>
   </url>
   
 </urlset>

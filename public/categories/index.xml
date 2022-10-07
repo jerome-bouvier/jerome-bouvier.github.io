@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on jeromeboubou.cool</title>
-    <link>https://jerome-bouvier.github.io/public/categories/</link>
+    <link>https://jerome-bouvier.github.io/categories/</link>
     <description>Recent content in Categories on jeromeboubou.cool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://jerome-bouvier.github.io/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://jerome-bouvier.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
