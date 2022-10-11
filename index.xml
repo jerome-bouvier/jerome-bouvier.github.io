@@ -5,11 +5,20 @@
     <link>https://jerome-bouvier.github.io/</link>
     <description>Recent content on jeromeboubou.cool</description>
     <image>
-      <url>https://jerome-bouvier.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://jerome-bouvier.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jerome-bouvier.github.io/resources/_gen/images/profil.jpg</url>
+      <link>https://jerome-bouvier.github.io/resources/_gen/images/profil.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Oct 2022 22:29:59 +0200</lastBuildDate><atom:link href="https://jerome-bouvier.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Oct 2022 22:29:59 +0200</lastBuildDate><atom:link href="https://jerome-bouvier.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mexican institue of sound - Full Performance (Live on KEXP)</title>
+      <link>https://jerome-bouvier.github.io/posts/mexican_institute_of_sound/</link>
+      <pubDate>Mon, 10 Oct 2022 22:29:59 +0200</pubDate>
+      
+      <guid>https://jerome-bouvier.github.io/posts/mexican_institute_of_sound/</guid>
+      <description>https://www.youtube.com/watch?v=JwHBxC05o0A</description>
+    </item>
+    
     <item>
       <title>Hello</title>
       <link>https://jerome-bouvier.github.io/posts/hello/</link>
