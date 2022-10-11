@@ -14,12 +14,11 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: jeromeboubou.cool
+  description: "jeromeboubou.cool, I try to make stuff and this is my blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["./resources/_gen/images/profil.jpg"]
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -50,19 +49,19 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "jeromeboubou.cool"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: jeromeboubou.cool
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "./resources/_gen/images/profil.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: profil pic
     buttons:
       - name: Posts
         url: posts
@@ -71,16 +70,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Hi there! \U0001F44B"
+    Content: jeromeboubou.cool, I try to make stuff and this is my blog
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://twitter.com/jeromm"
+    - name: instagram
+      url: "https://instagram.com/poneyponey"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/jerome-bouvier"
 
   analytics:
     google:
@@ -96,7 +95,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/jerome-bouvier/jerome-bouvier.github.io/blob/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -120,9 +119,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: jerome.bouvier.fr
+      name: jerome.bouvier.fr
+      url: https://jerome.bouvier.fr
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
